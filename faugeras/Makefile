@@ -1,0 +1,1 @@
+CPPFLAGS=`pkg-config --cflags eigen3`
